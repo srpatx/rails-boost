@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["gems@nertzy.com", "adam@buildgroundwork.com"]
 
   spec.summary       = "Improvements to Rails"
-  spec.homepage      = "https://github.com/buildgroundwork/rails-boost"
+  spec.homepage      = "https://github.com/srpatx/rails-boost"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.7.0")
 

@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "groundwork-style", github: "buildgroundwork/groundwork-style"
-gem "rspec-common", github: "buildgroundwork/rspec-common"
+gem "rspec-common", github: "srpatx/rspec-common"
+gem "srp-style", github: "srpatx/srp-style"
 
 # Specify your gem's dependencies in rails-boost.gemspec
 gemspec
