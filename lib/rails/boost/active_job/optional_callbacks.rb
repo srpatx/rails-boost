@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # ActiveJob runs callbacks when a job is enqueued. If there is a callback, then the callback is
 # `instance_exec`ed on the job instance, which creates its singleton class. We have observed that
 # this singleton class is not getting garbage collected after the job instance falls out of scope.

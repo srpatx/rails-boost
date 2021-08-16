@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module Rails::Boost
   module ActionController
     module TransformRequestKeys

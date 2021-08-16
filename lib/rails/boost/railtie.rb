@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module Rails::Boost
   class Railtie < Rails::Railtie
     initializer "rails-boost.action_controller.parameters.acceptable" do

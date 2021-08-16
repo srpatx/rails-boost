@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "active_support/core_ext/string/inflections"
 require "active_support/core_ext/hash/indifferent_access"
 require "rails/boost/active_support/hash_with_indifferent_access/opinionated_keys"

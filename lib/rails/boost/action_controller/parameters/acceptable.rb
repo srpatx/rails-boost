@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # ActionController::Parameters#require will raise a BadRequest exception for a
 # key that is not present.  Some resources don't require any parameters, and
 # the hash root will be removed by the ActionController parameter processing if

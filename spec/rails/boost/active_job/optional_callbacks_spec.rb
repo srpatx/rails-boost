@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "active_job"
 require "rails/boost"
 require "rails/boost/active_job/optional_callbacks"

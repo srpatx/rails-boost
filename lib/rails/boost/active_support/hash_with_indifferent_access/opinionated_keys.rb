@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # HashWithIndifferentAccess is, by its nature, indifferent to how you reference
 # keys.  However, Ruby has clearly chosen symbols as the preferred type of hash
 # key, and Ruby functionality such as named parameters and the ** operator

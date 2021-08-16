@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "action_controller"
 require "rails/boost/action_controller/params_wrapper"
 

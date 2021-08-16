@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # This object *should* behave polymorphically with a Hash object (which it
 # stands in for).  You can see the conversation about the change that broke
 # this behavior here: `https://github.com/rails/rails/pull/14384`.

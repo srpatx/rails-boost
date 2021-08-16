@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "rails/boost"
 require "rails/boost/active_storage/io"
 require "rspec/common/extensions/active_storage/service/memory"

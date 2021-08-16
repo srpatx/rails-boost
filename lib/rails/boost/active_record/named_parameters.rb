@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # ActiveRecord's initalizer expects an object that it can treat as a hash.
 # This disallows using keyword arguments, because the initializer parameter
 # list expects exactly one parameter, rather than named parameters.

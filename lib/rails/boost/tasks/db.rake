@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 namespace :db do
   desc "Migrate and prepare for tests"
   task do: %w[migrate test:prepare]

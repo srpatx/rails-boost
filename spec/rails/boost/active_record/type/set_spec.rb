@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "rails/boost"
 require "rails/boost/active_record/type/set"
 require "pg"
